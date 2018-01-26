@@ -1,3 +1,5 @@
+#ALL CREDITS TO: Jarle Brinchmann
+
 def cv1(x, bws, model='gaussian', plot=False, n_folds=10):
     """
         This calculates the leave-one-out cross validation. If you set
